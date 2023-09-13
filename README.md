@@ -14,4 +14,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santeowen&" alt="santeowen" /></p>
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
